@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import "tailwindcss/tailwind.css"
-import Link from 'next/Link'
+import Link from 'next/link'
 import { MicrophoneIcon, SearchIcon, UserCircleIcon, ViewGridIcon } from '@heroicons/react/solid'
 import { useRef } from 'react'
 import { useRouter } from 'next/router'
